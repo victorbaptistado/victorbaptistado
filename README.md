@@ -37,7 +37,7 @@
 
 
 
-## 📺 I said I'm a rock star at free time, right? Here you've got the taste of it:
+## 📺 I said I'm a rock star on my free time, right? Here you've got the taste of it:
 
 <!-- YOUTUBE:START -->
 - [Kimbow Raider - The Isolation Blues](https://www.youtube.com/watch?v=jxDCql_NcoI&t=79s)
