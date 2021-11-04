@@ -7,7 +7,7 @@
 - 🌱 I'm a javascript and react student
 - 🔭 I'm developing my own application on Self-Development
 - 🥅 2022 Goals: I'm looking forward to collaborate on a project!
-- ⚡ Fun fact?: I'm singer in a rock band (sometimes I dance, but that's a secret...)
+- ⚡ About me?: I'm singer in a rock band (sometimes I dance, but that's a secret...)
 
 ### Connect with me:
 
