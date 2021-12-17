@@ -36,6 +36,14 @@
 <br/>
 
 
+## 📺 My Youtube channel on Programming
+
+<!-- YOUTUBE:START -->
+- [Victor Baptista](https://www.youtube.com/channel/UCHWvWfcwrb153UeOHaxkVzQ)
+
+<!-- YOUTUBE:END -->
+
+
 
 ## 📺 I said I'm a rock star on my free time, right? Here you've got the taste of it:
 
